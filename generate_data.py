@@ -1,6 +1,6 @@
 """
 generate_data.py
-Generates a realistic synthetic retail sales dataset..
+Generates a realistic synthetic retail sales dataset.
 """
 
 import numpy as np
