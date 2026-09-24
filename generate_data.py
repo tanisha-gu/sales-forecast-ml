@@ -9,6 +9,7 @@ random.seed(42)
 # Here I did listing
 REGIONS     = ["North", "South", "East", "West"]
 CATEGORIES  = ["Electronics", "Clothing", "Groceries", "Home & Kitchen", "Sports"]
+#products list 
 PRODUCTS    = {
     "Electronics":    ["Laptop", "Smartphone", "Headphones", "Tablet", "Camera"],
     "Clothing":       ["T-Shirt", "Jeans", "Jacket", "Dress", "Shoes"],
