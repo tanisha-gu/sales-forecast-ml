@@ -82,7 +82,8 @@ def generate_dataset(n_rows=3000):
     df["date"] = pd.to_datetime(df["date"])
     df = df.sort_values("date").reset_index(drop=True)
     return df
-
+#main here also csv
+#add print line also 
 if __name__ == "__main__":
     df = generate_dataset(3000)
     df.to_csv("data/sales_data.csv", index=False)
