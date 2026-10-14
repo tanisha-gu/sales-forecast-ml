@@ -211,7 +211,7 @@ Inference — predict new transactions
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] Time-series forecasting with **Facebook Prophet** / ARIMA
 - [ ] Hyperparameter tuning with **Optuna** / GridSearchCV
@@ -236,7 +236,6 @@ Inference — predict new transactions
 ---
 
 
----
 
 <div align="center">
 
