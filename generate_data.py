@@ -17,6 +17,7 @@ PRODUCTS    = {
     "Home & Kitchen": ["Mixer", "Cookware Set", "Bedsheet", "Curtains", "Water Purifier"],
     "Sports":         ["Cricket Bat", "Football", "Yoga Mat", "Dumbbells", "Cycle"],
 }
+#price list
 BASE_PRICE  = {
     "Electronics": 25000, "Clothing": 1200, "Groceries": 300,
     "Home & Kitchen": 3500, "Sports": 2000,
