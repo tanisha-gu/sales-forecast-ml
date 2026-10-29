@@ -57,7 +57,7 @@ def generate_dataset(n_rows=3000):
         profit        = round(revenue * profit_margin, 2)
         returns_pct   = round(np.random.uniform(0.0, 0.08), 3)
         net_revenue   = round(revenue * (1 - returns_pct), 2)
-
+#add with category wise
         rows.append({
             "date":           date.strftime("%Y-%m-%d"),
             "year":           date.year,
